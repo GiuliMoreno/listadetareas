@@ -1,0 +1,44 @@
+body{ background-color: bisque;}
+
+
+.caja{
+    right: 33%;
+    flex-direction: row; 
+    justify-content: space-between;
+    }
+    .caja1  { 
+        right: 33%;
+        height: 33%;
+     
+      
+    }
+    .caja2  { 
+        right: 33%;
+        height: 33%;
+      
+    
+    }
+    .caja3  { 
+        right: 33%;
+        height: 33%;
+        text-decoration: line-through;
+    
+    }
+    .caja4  { 
+        right: 33%;
+        height: 33%;
+     
+    
+    }
+    .caja5  { 
+        right: 33%;
+        height: 33%;
+       
+    }
+    .caja6  { 
+        right: 33%;
+        height: 33%;
+        text-decoration: line-through;
+    
+    
+    }
